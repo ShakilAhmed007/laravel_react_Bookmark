@@ -23,9 +23,8 @@ class BookmarkFactory extends Factory
     {
         return [
             'title' => $this->faker->word,
-            'usl' => $this->faker->url,
+            'url' => $this->faker->url,
             'user_id' => 1,
-        
         ];
     }
 }
