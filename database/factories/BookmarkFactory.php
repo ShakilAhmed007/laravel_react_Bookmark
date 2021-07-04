@@ -25,6 +25,7 @@ class BookmarkFactory extends Factory
             'title' => $this->faker->word,
             'url' => $this->faker->url,
             'user_id' => 1,
+            'is_active' => 1,
         ];
     }
 }
