@@ -14,7 +14,8 @@
         "laravel/tinker": "^2.5",
         "laravel/ui": "^3.3",
         "shweshi/opengraph": "^1.1",
-        "thejenos/laradump": "dev-main"
+        "thejenos/laradump": "dev-main",
+        "tightenco/ziggy": "^0.9.4"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
